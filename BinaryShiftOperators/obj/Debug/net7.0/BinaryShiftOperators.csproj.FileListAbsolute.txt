@@ -1,0 +1,15 @@
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/bin/Debug/net7.0/BinaryShiftOperators
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/bin/Debug/net7.0/BinaryShiftOperators.deps.json
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/bin/Debug/net7.0/BinaryShiftOperators.runtimeconfig.json
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/bin/Debug/net7.0/BinaryShiftOperators.dll
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/bin/Debug/net7.0/BinaryShiftOperators.pdb
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/BinaryShiftOperators.csproj.AssemblyReference.cache
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/BinaryShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/BinaryShiftOperators.AssemblyInfoInputs.cache
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/BinaryShiftOperators.AssemblyInfo.cs
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/BinaryShiftOperators.csproj.CoreCompileInputs.cache
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/BinaryShiftOperators.dll
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/refint/BinaryShiftOperators.dll
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/BinaryShiftOperators.pdb
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/BinaryShiftOperators.genruntimeconfig.cache
+/home/rmoore/RiderProjects/Sandbox/BinaryShiftOperators/obj/Debug/net7.0/ref/BinaryShiftOperators.dll

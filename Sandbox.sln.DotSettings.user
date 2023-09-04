@@ -3,6 +3,9 @@
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/BuildTool/RecentBuildToolPaths/=_002Fhome_002Frmoore_002Fbin_002FJetMSBuild_002FMSBuild_002F15_002E0_002FBin_002FMSBuild_002Eexe/@EntryIndexedValue">True</s:Boolean>
 	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1114112</s:Int64>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/RunBuildOnSolutionLoaded/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aefa621a_002Dfb24_002D456c_002D944f_002D4ded79d1a9c0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Nothing /&gt;
+&lt;/SessionState&gt;</s:String>
 	
 	
 	
